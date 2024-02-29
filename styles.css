@@ -1,0 +1,42 @@
+body {
+  font-family: 'Ubuntu', sans-serif;
+  background-color: rgb(255, 230, 230);
+}
+
+.renkbir {
+color: rgb(255, 230, 230);
+}
+
+.renkiki, h3 {
+color: rgb(225, 175, 209);
+}
+
+.renkuc, h1, h2, ol, ul {
+color: rgb(173, 136, 198);
+}
+
+.renkdort, p {
+color: rgb(116, 105, 182);
+}
+
+img {
+  border-radius: 35px;
+}
+
+ol, ul {
+  font-size: 20px;
+  font-weight: 500;
+  list-style-position: inside;
+}
+
+li {
+  padding-right: 3%;
+}
+
+p {
+  font-size: 17px;
+}
+
+.fs20 {
+  font-size: 20px;
+}
