@@ -1,2 +1,2 @@
 # CSS ÖDEV 1
-* Patika.dev/Kodluyoruz İçin Birinci CSS Ödevimdir
+**Patika.dev/Kodluyoruz İçin Birinci CSS Ödevimdir**
